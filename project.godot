@@ -63,7 +63,6 @@ common/enable_pause_aware_picking=true
 
 [rendering]
 
-quality/driver/driver_name="GLES2"
 quality/driver/fallback_to_gles2=true
 gles2/compatibility/disable_half_float.iOS=false
 gles2/compatibility/enable_high_float.Android=true
